@@ -1,0 +1,8 @@
+ejecutar proyecto:
+
+npm start
+
+
+instalar todo:
+
+npm i --f
